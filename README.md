@@ -1,48 +1,51 @@
 # Hi, I'm Shalmali Chakraborty 👋
 
-**Data Engineer | Data Extraction · ETL Workflows · Data Enrichment**
+**Data Engineer | Python · ETL · Data Pipelines · Data Quality**
 
-I work on building practical data workflows that collect, transform, validate, and prepare information from diverse web sources. My experience includes web scraping, client-specific data transformation, cloud storage workflows, and AI-assisted data enrichment.
+I build practical data workflows that turn raw information into structured, reliable datasets. My experience includes multilingual e-commerce data extraction, configurable catalogue transformations, schema mapping, validation, and cloud-based image-storage workflows.
 
 [LinkedIn](https://www.linkedin.com/in/shalmali-chakraborty-795b73241/) · [GitHub](https://github.com/Shalmali29)
 
 ---
 
-## About Me
+## What I Work On
 
-- Data Engineer working with data extraction, transformation, and enrichment workflows.
-- Experienced in collecting data from multilingual websites and handling pagination and cookie-related challenges.
-- Work with Python-based scraping tools and browser automation.
-- Build and adapt transformed datasets to meet client-specific schemas and requirements.
-- Use AI APIs as well as manual prompting for data enrichment.
-- Perform data validation and sanity checks to improve data quality.
-- Work with Google Cloud Storage for bucket and image-related workflows.
+- **Data extraction:** Collecting structured product information from multilingual websites using Python-based scraping and browser automation.
+- **ETL development:** Cleaning, normalising, transforming, and preparing catalogue data for downstream systems.
+- **Schema mapping:** Building reusable transformations for different client and platform data models.
+- **Data quality:** Validating required fields, formats, prices, availability values, and record consistency.
+- **Cloud workflows:** Working with Google Cloud Storage for product-image storage and stable asset references.
+- **Data enrichment:** Supporting AI-assisted enrichment of incomplete catalogue information.
 
 ## Technical Skills
 
-| Area | Tools and Technologies |
+| Area | Technologies |
 |---|---|
-| Programming | Python |
-| Web Scraping | BeautifulSoup, Selenium, Playwright |
-| Data Engineering | ETL workflows, data transformation, schema mapping |
-| Data Enrichment | AI API integration, prompt-based enrichment |
-| Cloud Storage | Google Cloud Storage |
-| Quality & Testing | Data validation, sanity checks, chatbot testing |
+| Programming | Python, SQL |
+| Data processing | Pandas, PySpark |
+| Web extraction | BeautifulSoup, Playwright, Selenium |
+| ETL & quality | ETL pipelines, schema mapping, data validation, data cleaning |
+| Databases | PostgreSQL, MongoDB |
+| Search & data platforms | Weaviate, embeddings, semantic and hybrid search |
+| Cloud | Google Cloud Storage |
+| Analytics | Power BI |
 
-## Selected Projects
+## Portfolio Focus
 
-A few projects available on my GitHub:
+I am developing reproducible, synthetic-data projects that demonstrate:
 
-- [YouTube Scraping Project](https://github.com/Shalmali29/Youtube-Scraping-project) — a project focused on extracting information from YouTube.
-- [Neural Network](https://github.com/Shalmali29/Neural-Network) — a neural network learning/project repository.
-- [Grade Calculation](https://github.com/Shalmali29/grade-calculation) — a Python project for grade calculation.
-- [ListPython](https://github.com/Shalmali29/ListPython) — Python practice and examples.
+1. Multilingual e-commerce catalogue extraction
+2. Configurable multi-schema ETL transformations
+3. Data validation and quality reporting
+4. Database loading and repeatable pipeline execution
+
+All portfolio examples are kept separate from employer systems, customer data, credentials, and proprietary code.
 
 ## Education
 
-- **Master of Computer Applications (MCA)**
-- **Master of Business Administration (MBA)**
-- **Bachelor of Computer Applications (BCA)**
+- Master of Business Administration (MBA)
+- Master of Computer Applications (MCA)
+- Bachelor of Computer Applications (BCA)
 
 ## Connect
 
@@ -51,4 +54,4 @@ A few projects available on my GitHub:
 
 ---
 
-*Interested in practical data engineering, reliable data pipelines, and turning raw information into useful datasets.*
+*Interested in reliable data pipelines, practical ETL engineering, and building clean, usable datasets.*
